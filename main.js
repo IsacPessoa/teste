@@ -1,0 +1,1 @@
+console.log('ja pode all mossar ?');
